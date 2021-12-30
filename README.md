@@ -21,7 +21,7 @@
 
 
 
-[Documentation interactive de l'API](http://127.0.0.1:8000/docs)
-[Point d'entrée de l'API](http://127.0.0.1:8000/)
+> [Documentation interactive de l'API](http://127.0.0.1:8000/docs)
+> [Point d'entrée de l'API](http://127.0.0.1:8000/)
 
 ### Auteur: *Ralph ZOGO*
